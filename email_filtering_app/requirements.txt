@@ -1,0 +1,7 @@
+Flask
+Flask-WTF
+WTForms
+pymongo
+imaplib
+email
+flask_pymongo
